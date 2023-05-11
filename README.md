@@ -1,5 +1,6 @@
-### Hi there 👋
 
+### بسم الله الرحمن الرحيم
+### Hi there 👋
 <!--
 **Yazan-Hamad/Yazan-Hamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
