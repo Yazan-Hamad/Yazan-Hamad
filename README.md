@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 My name is Yazan Hamad.
+
 I am a software developer based in Kuwait.
+
 I studied computer sciencen in JUST University in Jordan.
 
 <!--
